@@ -14,7 +14,6 @@ import javax.sql.DataSource;
 
 @Configuration
 @RequiredArgsConstructor
-
 public class MyBatisConfig {
 
     private final ItemMapper itemMapper;
